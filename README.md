@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TonyPSR
+- 👋 Hi, I’m Tony
 - 👀 I’m interested in programming!
 - 🌱 I’m currently learning blockchain.
 - 💞️ I’m looking to collaborate in Hyperledger Fabric projects
